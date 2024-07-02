@@ -1,4 +1,0 @@
-mans dilemma 
-answer:
-Not to be given InthePenalColony
-Flag : 0CTF{AlwaysHuman}
